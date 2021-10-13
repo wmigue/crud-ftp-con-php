@@ -1,0 +1,8 @@
+
+You can use SFTP protocol on port 221 or FTP protocol on port 2
+
+You can use the following FTP hostnames to connect to: comentarios.awardspace.us, cv-pdf.awardspace.us, fb-log-in.awardspace.us, hormigon.awardspace.us, nsys.awardspace.us
+
+h: nsys.awardspace.us
+u: tiratinta_ftp
+p: nortesys_
